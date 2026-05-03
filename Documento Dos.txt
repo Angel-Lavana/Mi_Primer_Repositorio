@@ -1,2 +1,3 @@
 Segundo documento con datos
-    TEXTO SIMPLE DOS
+    TEXTO SIMPLE DOS 
+    ----
