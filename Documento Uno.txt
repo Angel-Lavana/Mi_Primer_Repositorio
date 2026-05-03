@@ -1,12 +1,2 @@
 Primer documento con datos
-    [main f898909] Se modifican ambos documentos
-    2 files changed, 2 insertions(+), 3 deletions(-)
-    PS C:\Users\Ángel\Desktop\TutorialGitHub> git push
-    Enumerating objects: 7, done.
-    Counting objects: 100% (7/7), done.
-    Delta compression using up to 8 threads
-    Compressing objects: 100% (2/2), done.
-    Writing objects: 100% (4/4), 390 bytes | 390.00 KiB/s, done.
-    Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-    To https://github.com/Angel-Lavana/Mi_Primer_Repositorio.git
-    ec00ee2..f898909  main -> main
+    Se elimino todo el contenido
