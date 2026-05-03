@@ -1,3 +1,2 @@
 Primer documento con datos
-    Enumerating objects: 5, done.
-    Counting objects: 100% (5/5), done.
+    TEXTO SIMPLE UNO
